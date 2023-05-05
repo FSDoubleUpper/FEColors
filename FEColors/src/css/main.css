@@ -29,6 +29,9 @@
     font-size: 4rem;
     padding: 2rem 4rem;
 }
+.color-txt:hover {
+    cursor: pointer;
+}
 
 .color-info-container {
     margin: 3rem;
