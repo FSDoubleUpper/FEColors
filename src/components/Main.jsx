@@ -1,4 +1,4 @@
-import style from "../css/main.css";
+import "../css/main.css";
 import React, { useState } from "react";
 
 export default function Main() {
