@@ -21,8 +21,6 @@ export default function Main() {
             colorTextRGB,
             colorTextHex,
         }));
-
-        document.getElementsByClassName("color-text");
     };
 
     const generateRandomColorBackground = () => {
@@ -36,7 +34,6 @@ export default function Main() {
             colorBackgroundRGB,
             colorBackgroundHex,
         }));
-        document.getElementsByClassName("color-background");
     };
 
     const generateRandomColorBoth = () => {
